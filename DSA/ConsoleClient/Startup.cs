@@ -6,6 +6,9 @@
         {
             var binaryHeapTester = new BinaryHeapTester();
             binaryHeapTester.Test();
+
+            var dijkstraTester = new DijsktraTester();
+            dijkstraTester.Test();
         }
     }
 }
